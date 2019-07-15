@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 Test merge --no-ff
 working on dev branch !!!111
 working on qqqqqqq
+update in a new user or another workspace!!
