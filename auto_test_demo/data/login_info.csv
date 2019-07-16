@@ -1,0 +1,4 @@
+name,pwd,expected
+admin,123456,admin
+admin1,123456,admin1
+admin2,123456,admin2

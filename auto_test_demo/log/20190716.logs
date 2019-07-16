@@ -1,0 +1,555 @@
+2019-07-16 11:20:25,829 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:20:25,861 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:20:25,996 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:20:26,181 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:20:26,315 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:20:26,494 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:20:33,304 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:20:33,421 - INFO - get login name: admin  - test_login - line:47
+2019-07-16 11:20:33,421 - INFO - ===Start checking: === - test_login - line:48
+2019-07-16 11:20:38,603 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:20:38,612 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:20:38,748 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:20:38,915 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:20:39,054 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:20:39,215 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:20:39,662 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:20:39,671 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:20:39,803 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:20:39,958 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:20:40,089 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:20:40,248 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:28:35,885 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:28:35,917 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:28:36,051 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:28:36,228 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:28:36,360 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:28:36,534 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:28:37,304 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:28:37,417 - INFO - Expected login name: admin  - test_login - line:47
+2019-07-16 11:28:37,417 - INFO - Get actual login name: admin  - test_login - line:48
+2019-07-16 11:28:37,418 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:28:42,611 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:28:42,621 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:28:42,755 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:28:42,911 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:28:43,048 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:28:43,211 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:28:43,643 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:28:43,650 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:28:43,780 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:28:43,933 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:28:44,063 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:28:44,225 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:34:29,473 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:34:29,504 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:34:29,639 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:34:29,820 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:34:29,950 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:34:30,133 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:34:30,880 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:34:30,998 - INFO - Expected login name: admin  - test_login - line:47
+2019-07-16 11:34:30,998 - INFO - Get actual login name: admin  - test_login - line:48
+2019-07-16 11:34:30,998 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:34:36,155 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:34:36,162 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:34:36,297 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:34:36,454 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:34:36,589 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:34:36,753 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:34:37,295 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:34:37,415 - INFO - Expected login name: admin1  - test_login - line:47
+2019-07-16 11:34:37,415 - INFO - Get actual login name: admin1  - test_login - line:48
+2019-07-16 11:34:37,415 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:34:42,576 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:34:42,583 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:34:42,713 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:34:42,870 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:34:43,000 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:34:43,161 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:34:43,698 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:34:43,815 - INFO - Expected login name: admin2  - test_login - line:47
+2019-07-16 11:34:43,815 - INFO - Get actual login name: admin2  - test_login - line:48
+2019-07-16 11:34:43,815 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:36:18,624 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:36:18,655 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:36:18,787 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:36:18,966 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:36:19,097 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:36:19,273 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:36:19,990 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:36:20,109 - INFO - Expected login name: admin  - test_login - line:47
+2019-07-16 11:36:20,109 - INFO - Get actual login name: admin  - test_login - line:48
+2019-07-16 11:36:20,109 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:36:25,275 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:36:25,282 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:36:25,416 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:36:25,570 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:36:25,706 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:36:25,873 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:36:26,402 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:36:26,520 - INFO - Expected login name: admin1  - test_login - line:47
+2019-07-16 11:36:26,520 - INFO - Get actual login name: admin1  - test_login - line:48
+2019-07-16 11:36:26,520 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:36:31,679 - INFO - ===Login start:=== - test_login - line:44
+2019-07-16 11:36:31,686 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:36:31,820 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:36:31,974 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:36:32,109 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:36:32,270 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:36:32,809 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 11:36:32,927 - INFO - Expected login name: admin2  - test_login - line:47
+2019-07-16 11:36:32,928 - INFO - Get actual login name: admin2  - test_login - line:48
+2019-07-16 11:36:32,928 - INFO - ===Start checking: === - test_login - line:49
+2019-07-16 11:50:40,311 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:50:40,444 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:50:40,624 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:50:40,759 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:50:40,943 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:50:41,240 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 11:50:41,371 - INFO - p_panel is : <page.pagePanel.PagePanel object at 0x106d7a668> - test_login - line:60
+2019-07-16 11:50:41,371 - INFO - Expected error msg: 指定的密码不正确 - test_login - line:61
+2019-07-16 11:50:41,371 - INFO - Got actual error msg: ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:62
+2019-07-16 11:50:41,547 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:50:41,681 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:50:41,809 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:50:41,941 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:50:42,105 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:50:42,385 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 11:50:42,505 - INFO - p_panel is : <page.pagePanel.PagePanel object at 0x106d8ae48> - test_login - line:60
+2019-07-16 11:50:42,505 - INFO - Expected error msg: 用户名一栏为空 - test_login - line:61
+2019-07-16 11:50:42,505 - INFO - Got actual error msg: ERROR: The username field is empty. - test_login - line:62
+2019-07-16 11:50:42,664 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:50:42,805 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 11:50:42,954 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:50:43,092 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 11:50:43,247 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 11:50:43,546 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 11:50:43,664 - INFO - p_panel is : <page.pagePanel.PagePanel object at 0x106d7a668> - test_login - line:60
+2019-07-16 11:50:43,664 - INFO - Expected error msg: 密码一栏为空 - test_login - line:61
+2019-07-16 11:50:43,664 - INFO - Got actual error msg: ERROR: The password field is empty. - test_login - line:62
+2019-07-16 14:09:36,970 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 14:09:37,161 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 14:09:37,347 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 14:09:37,479 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 14:09:37,659 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 14:09:37,954 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 14:09:38,072 - INFO - p_panel is : <page.pagePanel.PagePanel object at 0x10488f940> - test_login - line:60
+2019-07-16 14:09:38,072 - INFO - Expected error msg: The password you entered for the username admin is incorrect - test_login - line:61
+2019-07-16 14:09:38,072 - INFO - Got actual error msg: ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:62
+2019-07-16 14:09:43,227 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 14:09:43,362 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 14:09:43,497 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 14:09:43,628 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 14:09:43,791 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 14:09:44,067 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 14:09:44,187 - INFO - p_panel is : <page.pagePanel.PagePanel object at 0x10406f4e0> - test_login - line:60
+2019-07-16 14:09:44,187 - INFO - Expected error msg: The username field is empty - test_login - line:61
+2019-07-16 14:09:44,188 - INFO - Got actual error msg: ERROR: The username field is empty. - test_login - line:62
+2019-07-16 14:09:49,368 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 14:09:49,503 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 14:09:49,647 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 14:09:49,781 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 14:09:49,937 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 14:09:50,228 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 14:09:50,345 - INFO - p_panel is : <page.pagePanel.PagePanel object at 0x10488f908> - test_login - line:60
+2019-07-16 14:09:50,345 - INFO - Expected error msg: The password field is empty - test_login - line:61
+2019-07-16 14:09:50,345 - INFO - Got actual error msg: ERROR: The password field is empty. - test_login - line:62
+2019-07-16 15:26:23,874 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:24,003 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:24,185 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:24,313 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:24,496 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:26:24,804 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:26:24,924 - INFO - Expected result is The password you entered for the username admin is incorrect - test_login - line:76
+2019-07-16 15:26:24,924 - INFO - Got actual result is ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:77
+2019-07-16 15:26:30,087 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:30,214 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:30,339 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:30,472 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:30,632 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:26:30,916 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:26:31,034 - INFO - Expected result is The username field is empty - test_login - line:76
+2019-07-16 15:26:31,034 - INFO - Got actual result is ERROR: The username field is empty. - test_login - line:77
+2019-07-16 15:26:36,206 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:36,338 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:36,475 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:36,608 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:36,760 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:26:37,051 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:26:37,168 - INFO - Expected result is The password field is empty - test_login - line:76
+2019-07-16 15:26:37,169 - INFO - Got actual result is ERROR: The password field is empty. - test_login - line:77
+2019-07-16 15:26:42,337 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:42,469 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:42,614 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:42,741 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:42,900 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:26:46,329 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:46,464 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:46,620 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:46,746 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:46,903 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:26:49,976 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:50,100 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:26:50,244 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:50,372 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:26:50,530 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:31:32,883 - INFO - ===Start Testing:=== - test_login - line:33
+2019-07-16 15:31:35,994 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:36,129 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:36,310 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:36,438 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:36,625 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:31:36,940 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:31:37,071 - INFO - Expected error msg: The password you entered for the username admin is incorrect - test_login - line:63
+2019-07-16 15:31:37,071 - INFO - Got actual error msg: ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:64
+2019-07-16 15:31:42,239 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:42,372 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:42,502 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:42,638 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:42,800 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:31:43,074 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:31:43,194 - INFO - Expected error msg: The username field is empty - test_login - line:63
+2019-07-16 15:31:43,194 - INFO - Got actual error msg: ERROR: The username field is empty. - test_login - line:64
+2019-07-16 15:31:48,360 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:48,494 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:48,639 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:48,765 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:48,916 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:31:49,192 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:31:49,307 - INFO - Expected error msg: The password field is empty - test_login - line:63
+2019-07-16 15:31:49,307 - INFO - Got actual error msg: ERROR: The password field is empty. - test_login - line:64
+2019-07-16 15:31:54,461 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:31:54,467 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:54,600 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:31:54,741 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:54,869 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:31:55,030 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:31:59,872 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:31:59,988 - INFO - Expected login name: admin  - test_login - line:49
+2019-07-16 15:31:59,988 - INFO - Got actual login name: admin  - test_login - line:50
+2019-07-16 15:31:59,988 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:32:05,145 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:32:05,156 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:32:05,289 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:32:05,447 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:32:05,583 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:32:05,749 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:32:14,214 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:32:14,332 - INFO - Expected login name: admin1  - test_login - line:49
+2019-07-16 15:32:14,332 - INFO - Got actual login name: admin1  - test_login - line:50
+2019-07-16 15:32:14,332 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:32:19,464 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:32:19,474 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:32:19,610 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:32:19,770 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:32:19,893 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:32:20,037 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:32:26,090 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:32:26,203 - INFO - Expected login name: admin2  - test_login - line:49
+2019-07-16 15:32:26,204 - INFO - Got actual login name: admin2  - test_login - line:50
+2019-07-16 15:32:26,204 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:32:31,377 - INFO - ===End Testing!=== - test_login - line:39
+2019-07-16 15:34:29,914 - INFO - ===Start Testing:=== - test_login - line:33
+2019-07-16 15:34:33,228 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:33,361 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:33,537 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:33,663 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:33,827 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:34:34,124 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:34:34,240 - INFO - Expected result is The password you entered for the username admin is incorrect - test_login - line:78
+2019-07-16 15:34:34,240 - INFO - Got actual result is ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:79
+2019-07-16 15:34:39,446 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:39,580 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:39,713 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:39,847 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:40,008 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:34:40,321 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:34:40,438 - INFO - Expected result is The username field is empty - test_login - line:78
+2019-07-16 15:34:40,438 - INFO - Got actual result is ERROR: The username field is empty. - test_login - line:79
+2019-07-16 15:34:45,623 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:45,755 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:45,891 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:46,020 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:46,170 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:34:46,459 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:34:46,576 - INFO - Expected result is The password field is empty - test_login - line:78
+2019-07-16 15:34:46,576 - INFO - Got actual result is ERROR: The password field is empty. - test_login - line:79
+2019-07-16 15:34:51,713 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:51,843 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:51,983 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:52,111 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:52,261 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:34:53,853 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:34:53,972 - INFO - Expected result is admin - test_login - line:78
+2019-07-16 15:34:53,972 - INFO - Got actual result is admin - test_login - line:79
+2019-07-16 15:34:59,113 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:59,241 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:34:59,395 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:59,529 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:34:59,695 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:10,869 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:35:10,985 - INFO - Expected result is admin1 - test_login - line:78
+2019-07-16 15:35:10,985 - INFO - Got actual result is admin1 - test_login - line:79
+2019-07-16 15:35:16,149 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:16,277 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:16,426 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:16,551 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:16,703 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:17,826 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:35:17,942 - INFO - Expected result is admin2 - test_login - line:78
+2019-07-16 15:35:17,942 - INFO - Got actual result is admin2 - test_login - line:79
+2019-07-16 15:35:23,122 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:23,255 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:23,421 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:23,553 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:23,714 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:24,021 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:35:24,136 - INFO - Expected error msg: The password you entered for the username admin is incorrect - test_login - line:63
+2019-07-16 15:35:24,136 - INFO - Got actual error msg: ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:64
+2019-07-16 15:35:29,298 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:29,428 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:29,563 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:29,694 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:29,855 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:30,128 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:35:30,243 - INFO - Expected error msg: The username field is empty - test_login - line:63
+2019-07-16 15:35:30,243 - INFO - Got actual error msg: ERROR: The username field is empty. - test_login - line:64
+2019-07-16 15:35:35,494 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:35,631 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:35,789 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:35,922 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:36,079 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:36,371 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:35:36,487 - INFO - Expected error msg: The password field is empty - test_login - line:63
+2019-07-16 15:35:36,488 - INFO - Got actual error msg: ERROR: The password field is empty. - test_login - line:64
+2019-07-16 15:35:41,645 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:35:41,655 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:41,790 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:41,948 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:42,078 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:42,240 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:42,797 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:35:42,916 - INFO - Expected login name: admin  - test_login - line:49
+2019-07-16 15:35:42,916 - INFO - Got actual login name: admin  - test_login - line:50
+2019-07-16 15:35:42,916 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:35:48,061 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:35:48,071 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:48,207 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:48,367 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:48,503 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:48,668 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:49,224 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:35:49,344 - INFO - Expected login name: admin1  - test_login - line:49
+2019-07-16 15:35:49,344 - INFO - Got actual login name: admin1  - test_login - line:50
+2019-07-16 15:35:49,344 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:35:54,505 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:35:54,512 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:54,648 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:35:54,802 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:54,941 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:35:55,102 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:35:55,601 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:35:55,719 - INFO - Expected login name: admin2  - test_login - line:49
+2019-07-16 15:35:55,719 - INFO - Got actual login name: admin2  - test_login - line:50
+2019-07-16 15:35:55,719 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:36:00,906 - INFO - ===End Testing!=== - test_login - line:39
+2019-07-16 15:39:51,767 - INFO - ===Start Testing:=== - test_login - line:33
+2019-07-16 15:39:54,161 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:39:54,291 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:39:54,471 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:39:54,608 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:39:54,790 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:39:55,084 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:39:55,198 - INFO - Expected result is The password you entered for the username admin is incorrect - test_login - line:78
+2019-07-16 15:39:55,198 - INFO - Got actual result is ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:79
+2019-07-16 15:40:00,383 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:00,515 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:00,649 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:00,784 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:00,941 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:01,229 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:40:01,343 - INFO - Expected result is The username field is empty - test_login - line:78
+2019-07-16 15:40:01,343 - INFO - Got actual result is ERROR: The username field is empty. - test_login - line:79
+2019-07-16 15:40:06,514 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:06,650 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:06,790 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:06,927 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:07,081 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:07,368 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:40:07,485 - INFO - Expected result is The password field is empty - test_login - line:78
+2019-07-16 15:40:07,485 - INFO - Got actual result is ERROR: The password field is empty. - test_login - line:79
+2019-07-16 15:40:12,649 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:12,784 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:12,926 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:13,061 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:13,224 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:14,109 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:14,243 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:14,399 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:14,533 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:14,693 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:15,465 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:15,599 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:15,752 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:15,883 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:16,045 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:16,831 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:16,964 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:17,111 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:17,242 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:17,406 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:17,697 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:40:17,812 - INFO - Expected error msg: The password you entered for the username admin is incorrect - test_login - line:63
+2019-07-16 15:40:17,812 - INFO - Got actual error msg: ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:64
+2019-07-16 15:40:22,969 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:23,105 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:23,246 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:23,377 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:23,541 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:23,832 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:40:23,953 - INFO - Expected error msg: The username field is empty - test_login - line:63
+2019-07-16 15:40:23,953 - INFO - Got actual error msg: ERROR: The username field is empty. - test_login - line:64
+2019-07-16 15:40:29,128 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:29,261 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:29,411 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:29,542 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:29,694 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:29,979 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 15:40:30,099 - INFO - Expected error msg: The password field is empty - test_login - line:63
+2019-07-16 15:40:30,099 - INFO - Got actual error msg: ERROR: The password field is empty. - test_login - line:64
+2019-07-16 15:40:35,244 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:40:35,255 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:35,388 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:35,542 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:35,681 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:35,845 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:36,428 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:40:36,546 - INFO - Expected login name: admin  - test_login - line:49
+2019-07-16 15:40:36,546 - INFO - Got actual login name: admin  - test_login - line:50
+2019-07-16 15:40:36,546 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:40:41,708 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:40:41,718 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:41,852 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:42,013 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:42,149 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:42,313 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:42,847 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:40:42,967 - INFO - Expected login name: admin1  - test_login - line:49
+2019-07-16 15:40:42,967 - INFO - Got actual login name: admin1  - test_login - line:50
+2019-07-16 15:40:42,967 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:40:48,142 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 15:40:48,149 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:48,284 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 15:40:48,440 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:48,576 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 15:40:48,740 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 15:40:49,256 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 15:40:49,373 - INFO - Expected login name: admin2  - test_login - line:49
+2019-07-16 15:40:49,373 - INFO - Got actual login name: admin2  - test_login - line:50
+2019-07-16 15:40:49,373 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 15:40:54,527 - INFO - ===End Testing!=== - test_login - line:39
+2019-07-16 16:23:20,807 - INFO - ===Start Testing:=== - test_login - line:33
+2019-07-16 16:23:23,254 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:23,387 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:23,565 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:23,697 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:23,881 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:23:24,179 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 16:23:24,381 - INFO - Expected result is The password you entered for the username admin is incorrect - test_login - line:78
+2019-07-16 16:23:24,381 - INFO - Got actual result is ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:79
+2019-07-16 16:23:29,545 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:29,679 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:29,808 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:29,941 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:30,097 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:23:30,371 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 16:23:30,486 - INFO - Expected result is The username field is empty - test_login - line:78
+2019-07-16 16:23:30,486 - INFO - Got actual result is ERROR: The username field is empty. - test_login - line:79
+2019-07-16 16:23:35,661 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:35,796 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:35,938 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:36,071 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:36,222 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:23:36,510 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 16:23:36,628 - INFO - Expected result is The password field is empty - test_login - line:78
+2019-07-16 16:23:36,629 - INFO - Got actual result is ERROR: The password field is empty. - test_login - line:79
+2019-07-16 16:23:41,794 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:41,928 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:42,069 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:42,202 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:42,364 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:23:43,076 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 16:23:43,193 - INFO - Expected result is admin - test_login - line:78
+2019-07-16 16:23:43,193 - INFO - Got actual result is admin - test_login - line:79
+2019-07-16 16:23:48,364 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:48,499 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:48,655 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:48,793 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:48,957 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:23:49,733 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 16:23:49,852 - INFO - Expected result is admin1 - test_login - line:78
+2019-07-16 16:23:49,852 - INFO - Got actual result is admin1 - test_login - line:79
+2019-07-16 16:23:55,006 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:55,141 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:23:55,292 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:55,427 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:23:55,588 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:23:56,122 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 16:23:56,240 - INFO - Expected result is admin2 - test_login - line:78
+2019-07-16 16:23:56,240 - INFO - Got actual result is admin2 - test_login - line:79
+2019-07-16 16:24:01,412 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:01,547 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:01,702 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:01,838 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:02,005 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:24:02,295 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 16:24:02,416 - INFO - Expected error msg: The password you entered for the username admin is incorrect - test_login - line:63
+2019-07-16 16:24:02,416 - INFO - Got actual error msg: ERROR: The password you entered for the username admin is incorrect. Lost your password? - test_login - line:64
+2019-07-16 16:24:07,579 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:07,715 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:07,858 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:07,993 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:08,154 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:24:08,444 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 16:24:08,563 - INFO - Expected error msg: The username field is empty - test_login - line:63
+2019-07-16 16:24:08,563 - INFO - Got actual error msg: ERROR: The username field is empty. - test_login - line:64
+2019-07-16 16:24:13,743 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:13,877 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:14,033 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:14,171 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:14,325 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:24:14,606 - INFO - 查找元素第1次 True ('id', 'login_error')  - basePage - line:43
+2019-07-16 16:24:14,727 - INFO - Expected error msg: The password field is empty - test_login - line:63
+2019-07-16 16:24:14,727 - INFO - Got actual error msg: ERROR: The password field is empty. - test_login - line:64
+2019-07-16 16:24:19,882 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 16:24:19,895 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:20,030 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:20,184 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:20,321 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:20,480 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:24:21,082 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 16:24:21,202 - INFO - Expected login name: admin  - test_login - line:49
+2019-07-16 16:24:21,202 - INFO - Got actual login name: admin  - test_login - line:50
+2019-07-16 16:24:21,202 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 16:24:26,437 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 16:24:26,444 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:26,581 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:26,736 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:26,872 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:27,032 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:24:27,531 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 16:24:27,650 - INFO - Expected login name: admin1  - test_login - line:49
+2019-07-16 16:24:27,650 - INFO - Got actual login name: admin1  - test_login - line:50
+2019-07-16 16:24:27,650 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 16:24:32,796 - INFO - ===Login start:=== - test_login - line:46
+2019-07-16 16:24:32,810 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:32,942 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-07-16 16:24:33,094 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:33,232 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-07-16 16:24:33,393 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-07-16 16:24:33,877 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-07-16 16:24:33,998 - INFO - Expected login name: admin2  - test_login - line:49
+2019-07-16 16:24:33,998 - INFO - Got actual login name: admin2  - test_login - line:50
+2019-07-16 16:24:33,998 - INFO - ===Start checking: === - test_login - line:51
+2019-07-16 16:24:39,152 - INFO - ===End Testing!=== - test_login - line:39

@@ -1,0 +1,11 @@
+Script started on Mon Jun 17 15:39:07 2019
+[?1034hbash-3.2$ activate
+bash: activate: command not found
+bash-3.2$ exit()
+> exit
+bash: syntax error near unexpected token `exit'
+bash-3.2$ 
+bash-3.2$ exit
+exit
+
+Script done on Mon Jun 17 15:40:02 2019

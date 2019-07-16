@@ -1,0 +1,33 @@
+2019-06-24 18:25:55,163 - INFO - ===Login start:=== - test_login - line:36
+2019-06-24 18:25:55,194 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:25:55,388 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:25:55,579 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:25:55,709 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:25:55,870 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-06-24 18:27:32,412 - INFO - ===Login start:=== - test_login - line:36
+2019-06-24 18:27:32,442 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:27:32,574 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:27:32,753 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:27:32,885 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:27:33,061 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-06-24 18:27:33,979 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-06-24 18:27:34,097 - INFO - get login name admin:  - test_login - line:39
+2019-06-24 18:27:34,097 - INFO - ===Start checking: === - test_login - line:40
+2019-06-24 18:30:05,753 - INFO - ===Login start:=== - test_login - line:36
+2019-06-24 18:30:05,781 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:30:05,967 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:30:06,152 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:30:06,285 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:30:06,447 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-06-24 18:30:07,302 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-06-24 18:30:07,416 - INFO - get login name: admin  - test_login - line:39
+2019-06-24 18:30:07,416 - INFO - ===Start checking: === - test_login - line:40
+2019-06-24 18:34:17,876 - INFO - ===Login start:=== - test_login - line:36
+2019-06-24 18:34:17,910 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:34:18,040 - INFO - 查找元素第1次 True ('id', 'user_login')  - basePage - line:43
+2019-06-24 18:34:18,218 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:34:18,353 - INFO - 查找元素第1次 True ('id', 'user_pass')  - basePage - line:43
+2019-06-24 18:34:18,529 - INFO - 查找元素第1次 True ('id', 'wp-submit')  - basePage - line:43
+2019-06-24 18:34:19,408 - INFO - 查找元素第1次 True ('xpath', '//*[@id="wp-admin-bar-my-account"]/a/span')  - basePage - line:43
+2019-06-24 18:34:19,525 - INFO - get login name: admin  - test_login - line:39
+2019-06-24 18:34:19,525 - INFO - ===Start checking: === - test_login - line:40
